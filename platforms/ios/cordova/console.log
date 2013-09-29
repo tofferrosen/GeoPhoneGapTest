@@ -1,0 +1,259 @@
+2013-09-08 13:53:46.341 HelloWorld[88615:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-08 13:53:46.426 HelloWorld[88615:c07] [CDVTimer][splashscreen] 15.794992ms
+2013-09-08 13:53:46.427 HelloWorld[88615:c07] [CDVTimer][TotalPluginStartup] 16.245961ms
+2013-09-08 13:53:46.470 HelloWorld[88615:c07] Resetting plugins due to page load.
+2013-09-08 13:53:46.559 HelloWorld[88615:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-08 13:53:46.594 HelloWorld[88615:c07]   Received Event: deviceready
+2013-09-08 14:14:25.334 HelloWorld[89410:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-08 14:14:25.368 HelloWorld[89410:c07] [CDVTimer][splashscreen] 10.451972ms
+2013-09-08 14:14:25.368 HelloWorld[89410:c07] [CDVTimer][TotalPluginStartup] 10.817051ms
+2013-09-08 14:14:25.398 HelloWorld[89410:c07] Resetting plugins due to page load.
+2013-09-08 14:14:25.453 HelloWorld[89410:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-08 14:14:25.492 HelloWorld[89410:c07]   Received Event: deviceready
+2013-09-08 14:16:22.804 HelloWorld[89834:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-08 14:16:22.838 HelloWorld[89834:c07] [CDVTimer][splashscreen] 10.664999ms
+2013-09-08 14:16:22.838 HelloWorld[89834:c07] [CDVTimer][TotalPluginStartup] 11.056006ms
+2013-09-08 14:16:22.870 HelloWorld[89834:c07] Resetting plugins due to page load.
+2013-09-08 14:16:22.916 HelloWorld[89834:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-08 14:18:02.135 HelloWorld[90251:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-08 14:18:02.170 HelloWorld[90251:c07] [CDVTimer][splashscreen] 10.507047ms
+2013-09-08 14:18:02.170 HelloWorld[90251:c07] [CDVTimer][TotalPluginStartup] 10.869026ms
+2013-09-08 14:18:02.202 HelloWorld[90251:c07] Resetting plugins due to page load.
+2013-09-08 14:18:02.254 HelloWorld[90251:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-08 14:23:19.939 HelloWorld[90548:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-08 14:23:19.973 HelloWorld[90548:c07] [CDVTimer][splashscreen] 10.560989ms
+2013-09-08 14:23:19.973 HelloWorld[90548:c07] [CDVTimer][TotalPluginStartup] 10.915995ms
+2013-09-08 14:23:20.003 HelloWorld[90548:c07] Resetting plugins due to page load.
+2013-09-08 14:23:20.056 HelloWorld[90548:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-08 14:24:20.174 HelloWorld[90798:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-08 14:24:20.218 HelloWorld[90798:c07] [CDVTimer][splashscreen] 13.141036ms
+2013-09-08 14:24:20.219 HelloWorld[90798:c07] [CDVTimer][TotalPluginStartup] 13.705015ms
+2013-09-08 14:24:20.256 HelloWorld[90798:c07] Resetting plugins due to page load.
+2013-09-08 14:24:20.336 HelloWorld[90798:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-08 14:27:46.692 HelloWorld[91065:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-08 14:27:46.730 HelloWorld[91065:c07] [CDVTimer][splashscreen] 10.514021ms
+2013-09-08 14:27:46.730 HelloWorld[91065:c07] [CDVTimer][TotalPluginStartup] 11.294961ms
+2013-09-08 14:27:46.762 HelloWorld[91065:c07] Resetting plugins due to page load.
+2013-09-08 14:27:46.815 HelloWorld[91065:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2013-09-11 16:34:43.561 HelloWorld[27369:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-11 16:34:43.648 HelloWorld[27369:c07] [CDVTimer][splashscreen] 14.840007ms
+2013-09-11 16:34:43.649 HelloWorld[27369:c07] [CDVTimer][TotalPluginStartup] 16.038001ms
+2013-09-11 16:34:43.687 HelloWorld[27369:c07] Resetting plugins due to page load.
+2013-09-11 16:34:43.768 HelloWorld[27369:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-12 12:08:03.637 HelloWorld[33143:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-12 12:08:03.701 HelloWorld[33143:c07] [CDVTimer][splashscreen] 12.281954ms
+2013-09-12 12:08:03.701 HelloWorld[33143:c07] [CDVTimer][TotalPluginStartup] 13.092041ms
+2013-09-12 12:08:03.737 HelloWorld[33143:c07] Resetting plugins due to page load.
+2013-09-12 12:08:03.803 HelloWorld[33143:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-12 12:09:41.166 HelloWorld[33569:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-12 12:09:41.200 HelloWorld[33569:c07] [CDVTimer][splashscreen] 10.735989ms
+2013-09-12 12:09:41.200 HelloWorld[33569:c07] [CDVTimer][TotalPluginStartup] 11.083007ms
+2013-09-12 12:09:41.230 HelloWorld[33569:c07] Resetting plugins due to page load.
+2013-09-12 12:09:41.287 HelloWorld[33569:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-12 12:11:17.070 HelloWorld[33989:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-12 12:11:17.106 HelloWorld[33989:c07] [CDVTimer][splashscreen] 10.599017ms
+2013-09-12 12:11:17.106 HelloWorld[33989:c07] [CDVTimer][TotalPluginStartup] 11.141002ms
+2013-09-12 12:11:17.136 HelloWorld[33989:c07] Resetting plugins due to page load.
+2013-09-12 12:11:17.191 HelloWorld[33989:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-12 12:13:29.011 HelloWorld[34424:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-12 12:13:29.045 HelloWorld[34424:c07] [CDVTimer][splashscreen] 10.421991ms
+2013-09-12 12:13:29.045 HelloWorld[34424:c07] [CDVTimer][TotalPluginStartup] 10.770977ms
+2013-09-12 12:13:29.075 HelloWorld[34424:c07] Resetting plugins due to page load.
+2013-09-12 12:13:29.129 HelloWorld[34424:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-12 12:13:51.805 HelloWorld[34424:c07] THREAD WARNING: ['Geolocation'] took '22638.605957' ms. Plugin should use a background thread.
+2013-09-12 12:14:08.948 HelloWorld[34424:c07] locationManager::didFailWithError (null)
+2013-09-12 12:16:42.545 HelloWorld[34883:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-12 12:16:42.578 HelloWorld[34883:c07] [CDVTimer][splashscreen] 10.268986ms
+2013-09-12 12:16:42.578 HelloWorld[34883:c07] [CDVTimer][TotalPluginStartup] 10.631025ms
+2013-09-12 12:16:42.608 HelloWorld[34883:c07] Resetting plugins due to page load.
+2013-09-12 12:16:42.660 HelloWorld[34883:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-12 12:16:57.042 HelloWorld[34883:c07] locationManager::didFailWithError (null)
+2013-09-12 12:19:34.080 HelloWorld[35324:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-12 12:19:34.114 HelloWorld[35324:c07] [CDVTimer][splashscreen] 10.690033ms
+2013-09-12 12:19:34.114 HelloWorld[35324:c07] [CDVTimer][TotalPluginStartup] 11.043012ms
+2013-09-12 12:19:34.144 HelloWorld[35324:c07] Resetting plugins due to page load.
+2013-09-12 12:19:34.201 HelloWorld[35324:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-12 12:24:37.001 HelloWorld[35809:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-12 12:24:37.037 HelloWorld[35809:c07] [CDVTimer][splashscreen] 10.520995ms
+2013-09-12 12:24:37.037 HelloWorld[35809:c07] [CDVTimer][TotalPluginStartup] 11.303008ms
+2013-09-12 12:24:37.067 HelloWorld[35809:c07] Resetting plugins due to page load.
+2013-09-12 12:24:37.124 HelloWorld[35809:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-12 12:24:41.981 HelloWorld[35809:c07] THREAD WARNING: ['Geolocation'] took '4820.718994' ms. Plugin should use a background thread.
+2013-09-12 12:25:05.849 HelloWorld[35809:c07] locationManager::didFailWithError (null)
+2013-09-12 14:26:28.530 HelloWorld[38006:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-12 14:26:28.567 HelloWorld[38006:c07] [CDVTimer][splashscreen] 11.111975ms
+2013-09-12 14:26:28.568 HelloWorld[38006:c07] [CDVTimer][TotalPluginStartup] 12.037039ms
+2013-09-12 14:26:28.598 HelloWorld[38006:c07] Resetting plugins due to page load.
+2013-09-12 14:26:28.651 HelloWorld[38006:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-12 14:29:00.901 HelloWorld[38006:c07] THREAD WARNING: ['Geolocation'] took '2303.184814' ms. Plugin should use a background thread.
+2013-09-12 14:34:00.205 HelloWorld[38006:c07] THREAD WARNING: ['Geolocation'] took '1172.102051' ms. Plugin should use a background thread.
+2013-09-12 14:39:00.361 HelloWorld[38006:c07] THREAD WARNING: ['Geolocation'] took '2045.230957' ms. Plugin should use a background thread.
+2013-09-12 14:44:00.665 HelloWorld[38006:c07] THREAD WARNING: ['Geolocation'] took '2167.038330' ms. Plugin should use a background thread.
+2013-09-12 14:49:49.358 HelloWorld[39091:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-12 14:49:49.398 HelloWorld[39091:c07] [CDVTimer][splashscreen] 11.228025ms
+2013-09-12 14:49:49.398 HelloWorld[39091:c07] [CDVTimer][TotalPluginStartup] 11.608958ms
+2013-09-12 14:49:49.429 HelloWorld[39091:c07] Resetting plugins due to page load.
+2013-09-12 14:49:49.483 HelloWorld[39091:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-12 14:50:31.197 HelloWorld[39091:c07] ERROR: Plugin 'BGLocationTracking' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-12 14:50:31.198 HelloWorld[39091:c07] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "BGLocationTracking1664006288",
+  "BGLocationTracking",
+  "startUpdatingLocation",
+  [
+    "successCallBackFunction",
+    "onError"
+  ]
+]
+2013-09-12 14:50:37.561 HelloWorld[39091:c07] ERROR: Plugin 'BGLocationTracking' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-12 14:50:37.561 HelloWorld[39091:c07] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "INVALID",
+  "BGLocationTracking",
+  "stopUpdatingLocation",
+  [
+
+  ]
+]
+2013-09-12 14:50:43.703 HelloWorld[39091:c07] ERROR: Plugin 'BGLocationTracking' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-12 14:50:43.703 HelloWorld[39091:c07] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "BGLocationTracking1664006296",
+  "BGLocationTracking",
+  "startUpdatingLocation",
+  [
+    "successCallBackFunction",
+    "onError"
+  ]
+]
+2013-09-12 14:50:49.458 HelloWorld[39091:c07] ERROR: Plugin 'BGLocationTracking' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-12 14:50:49.458 HelloWorld[39091:c07] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "INVALID",
+  "BGLocationTracking",
+  "stopUpdatingLocation",
+  [
+
+  ]
+]
+2013-09-12 14:50:53.480 HelloWorld[39091:c07] ERROR: Plugin 'BGLocationTracking' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-12 14:50:53.480 HelloWorld[39091:c07] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "BGLocationTracking1664006302",
+  "BGLocationTracking",
+  "startUpdatingLocation",
+  [
+    "successCallBackFunction",
+    "onError"
+  ]
+]
+2013-09-12 14:50:55.556 HelloWorld[39091:c07] ERROR: Plugin 'BGLocationTracking' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-12 14:50:55.556 HelloWorld[39091:c07] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "INVALID",
+  "BGLocationTracking",
+  "stopUpdatingLocation",
+  [
+
+  ]
+]
+2013-09-12 14:52:38.672 HelloWorld[39539:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-12 14:52:38.706 HelloWorld[39539:c07] [CDVTimer][splashscreen] 10.663986ms
+2013-09-12 14:52:38.707 HelloWorld[39539:c07] [CDVTimer][TotalPluginStartup] 11.002004ms
+2013-09-12 14:52:38.737 HelloWorld[39539:c07] Resetting plugins due to page load.
+2013-09-12 14:52:38.791 HelloWorld[39539:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-12 14:52:56.702 HelloWorld[39539:c07] ERROR: Plugin 'BGLocationTracking' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-12 14:52:56.703 HelloWorld[39539:c07] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "BGLocationTracking352660439",
+  "BGLocationTracking",
+  "startUpdatingLocation",
+  [
+    "successCallBackFunction",
+    "onError"
+  ]
+]
+2013-09-12 14:53:48.164 HelloWorld[39539:c07] ERROR: Plugin 'BGLocationTracking' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-12 14:53:48.164 HelloWorld[39539:c07] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "INVALID",
+  "BGLocationTracking",
+  "stopUpdatingLocation",
+  [
+
+  ]
+]
+2013-09-12 14:53:55.729 HelloWorld[39539:c07] ERROR: Plugin 'BGLocationTracking' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-12 14:53:55.729 HelloWorld[39539:c07] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "BGLocationTracking352660448",
+  "BGLocationTracking",
+  "startUpdatingLocation",
+  [
+    "successCallBackFunction",
+    "onError"
+  ]
+]
+2013-09-12 14:54:58.913 HelloWorld[39539:c07] ERROR: Plugin 'BGLocationTracking' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-12 14:54:58.916 HelloWorld[39539:c07] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "INVALID",
+  "BGLocationTracking",
+  "stopUpdatingLocation",
+  [
+
+  ]
+]
+2013-09-12 16:56:17.737 HelloWorld[39539:c07] THREAD WARNING: ['Geolocation'] took '11.260010' ms. Plugin should use a background thread.
+2013-09-12 16:57:00.744 HelloWorld[39539:c07] THREAD WARNING: ['Geolocation'] took '3010.631104' ms. Plugin should use a background thread.
+2013-09-12 17:01:59.787 HelloWorld[39539:c07] THREAD WARNING: ['Geolocation'] took '1911.186035' ms. Plugin should use a background thread.
+2013-09-12 17:06:58.785 HelloWorld[39539:c07] THREAD WARNING: ['Geolocation'] took '867.668213' ms. Plugin should use a background thread.
+2013-09-12 17:11:59.073 HelloWorld[39539:c07] THREAD WARNING: ['Geolocation'] took '578.319092' ms. Plugin should use a background thread.
+2013-09-12 17:16:59.475 HelloWorld[39539:c07] THREAD WARNING: ['Geolocation'] took '952.379150' ms. Plugin should use a background thread.
+2013-09-12 17:17:28.552 HelloWorld[39539:c07] THREAD WARNING: ['Geolocation'] took '25.435059' ms. Plugin should use a background thread.
+2013-09-12 17:26:59.236 HelloWorld[39539:c07] THREAD WARNING: ['Geolocation'] took '650.237061' ms. Plugin should use a background thread.
+2013-09-12 17:41:57.931 HelloWorld[39539:c07] THREAD WARNING: ['Geolocation'] took '260.675049' ms. Plugin should use a background thread.
+2013-09-12 17:46:58.954 HelloWorld[39539:c07] THREAD WARNING: ['Geolocation'] took '1181.373779' ms. Plugin should use a background thread.
+2013-09-12 17:56:58.486 HelloWorld[39539:c07] THREAD WARNING: ['Geolocation'] took '245.377930' ms. Plugin should use a background thread.
+2013-09-12 18:05:39.443 HelloWorld[39539:c07] THREAD WARNING: ['Geolocation'] took '10.928955' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
+2013-09-28 20:01:59.424 HelloWorld[96982:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-28 20:01:59.522 HelloWorld[96982:c07] [CDVTimer][splashscreen] 13.942003ms
+2013-09-28 20:01:59.522 HelloWorld[96982:c07] [CDVTimer][TotalPluginStartup] 14.509976ms
+2013-09-28 20:01:59.554 HelloWorld[96982:c07] Resetting plugins due to page load.
+2013-09-28 20:01:59.642 HelloWorld[96982:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-28 20:02:31.120 HelloWorld[96982:c07] ERROR: Plugin 'BGLocationTracking' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-28 20:02:31.121 HelloWorld[96982:c07] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "BGLocationTracking1377022941",
+  "BGLocationTracking",
+  "startUpdatingLocation",
+  [
+    "successCallBackFunction",
+    "onError"
+  ]
+]
+2013-09-28 20:02:32.396 HelloWorld[96982:c07] ERROR: Plugin 'BGLocationTracking' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-28 20:02:32.396 HelloWorld[96982:c07] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "INVALID",
+  "BGLocationTracking",
+  "stopUpdatingLocation",
+  [
+
+  ]
+]
+2013-09-28 20:02:36.050 HelloWorld[96982:c07] ERROR: Plugin 'BGLocationTracking' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-28 20:02:36.050 HelloWorld[96982:c07] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "BGLocationTracking1377022942",
+  "BGLocationTracking",
+  "startUpdatingLocation",
+  [
+    "successCallBackFunction",
+    "onError"
+  ]
+]
+2013-09-28 20:03:49.840 HelloWorld[97397:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-28 20:03:49.877 HelloWorld[97397:c07] [CDVTimer][splashscreen] 11.372030ms
+2013-09-28 20:03:49.877 HelloWorld[97397:c07] [CDVTimer][TotalPluginStartup] 11.722982ms
+2013-09-28 20:03:49.909 HelloWorld[97397:c07] Resetting plugins due to page load.
+2013-09-28 20:03:49.962 HelloWorld[97397:c07] Finished load of: file:///Users/toffer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8FB6661A-87F1-4C91-9715-DE96FA5BA7D7/HelloWorld.app/www/index.html
+2013-09-28 20:04:12.811 HelloWorld[97397:c07] ERROR: Plugin 'BGLocationTracking' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-28 20:04:12.811 HelloWorld[97397:c07] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "BGLocationTracking222709396",
+  "BGLocationTracking",
+  "startUpdatingLocation",
+  [
+    "successCallBackFunction",
+    "onError"
+  ]
+]
