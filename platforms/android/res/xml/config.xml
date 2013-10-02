@@ -38,6 +38,9 @@
     <feature name="Vibration">
         <param name="android-package" value="org.apache.cordova.vibration.Vibration" />
     </feature>
+    <feature name="BackgroundServicePlugin">
+      <param name="android-package" value="com.red_folder.phonegap.plugin.backgroundservice.BackgroundServicePlugin"/>
+    </feature>
     <plugin name="Geolocation" value="org.apache.cordova.GeoBroker" />
     <access origin="http://127.0.0.1*" />
     <preference name="useBrowserHistory" value="true" />
