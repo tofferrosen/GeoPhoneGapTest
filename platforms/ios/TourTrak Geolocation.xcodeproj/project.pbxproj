@@ -1,0 +1,494 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		415B30AA1816DA81005D3ACE /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 415B30A81816DA43005D3ACE /* CoreLocation.framework */; };
+		415B30AD1816DAB3005D3ACE /* LocationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 415B30AC1816DAB3005D3ACE /* LocationController.m */; };
+		41F014E7180C7FB6003D4541 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 41F014E6180C7FB6003D4541 /* UIKit.framework */; };
+		41F014E9180C7FB6003D4541 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 41F014E8180C7FB6003D4541 /* Foundation.framework */; };
+		41F014EB180C7FB6003D4541 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 41F014EA180C7FB6003D4541 /* CoreGraphics.framework */; };
+		41F014F1180C7FB6003D4541 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 41F014EF180C7FB6003D4541 /* InfoPlist.strings */; };
+		41F014F3180C7FB6003D4541 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 41F014F2180C7FB6003D4541 /* main.m */; };
+		41F014F7180C7FB6003D4541 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 41F014F6180C7FB6003D4541 /* AppDelegate.m */; };
+		41F014F9180C7FB6003D4541 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 41F014F8180C7FB6003D4541 /* Default.png */; };
+		41F014FB180C7FB6003D4541 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41F014FA180C7FB6003D4541 /* Default@2x.png */; };
+		41F014FD180C7FB6003D4541 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41F014FC180C7FB6003D4541 /* Default-568h@2x.png */; };
+		41F01500180C7FB6003D4541 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41F014FE180C7FB6003D4541 /* MainStoryboard_iPhone.storyboard */; };
+		41F01503180C7FB6003D4541 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41F01501180C7FB6003D4541 /* MainStoryboard_iPad.storyboard */; };
+		41F01506180C7FB6003D4541 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 41F01505180C7FB6003D4541 /* ViewController.m */; };
+		41F0150E180C7FB7003D4541 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 41F0150D180C7FB7003D4541 /* SenTestingKit.framework */; };
+		41F0150F180C7FB7003D4541 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 41F014E6180C7FB6003D4541 /* UIKit.framework */; };
+		41F01510180C7FB7003D4541 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 41F014E8180C7FB6003D4541 /* Foundation.framework */; };
+		41F01518180C7FB7003D4541 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 41F01516180C7FB7003D4541 /* InfoPlist.strings */; };
+		41F0151B180C7FB7003D4541 /* TourTrak_GeolocationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 41F0151A180C7FB7003D4541 /* TourTrak_GeolocationTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		41F01511180C7FB7003D4541 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 41F014DB180C7FB5003D4541 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 41F014E2180C7FB6003D4541;
+			remoteInfo = "TourTrak Geolocation";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		415B30A81816DA43005D3ACE /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		415B30AB1816DAB3005D3ACE /* LocationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LocationController.h; sourceTree = "<group>"; };
+		415B30AC1816DAB3005D3ACE /* LocationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocationController.m; sourceTree = "<group>"; };
+		41F014E3180C7FB6003D4541 /* TourTrak Geolocation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TourTrak Geolocation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		41F014E6180C7FB6003D4541 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		41F014E8180C7FB6003D4541 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		41F014EA180C7FB6003D4541 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		41F014EE180C7FB6003D4541 /* TourTrak Geolocation-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TourTrak Geolocation-Info.plist"; sourceTree = "<group>"; };
+		41F014F0180C7FB6003D4541 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		41F014F2180C7FB6003D4541 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		41F014F4180C7FB6003D4541 /* TourTrak Geolocation-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TourTrak Geolocation-Prefix.pch"; sourceTree = "<group>"; };
+		41F014F5180C7FB6003D4541 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		41F014F6180C7FB6003D4541 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		41F014F8180C7FB6003D4541 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		41F014FA180C7FB6003D4541 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		41F014FC180C7FB6003D4541 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		41F014FF180C7FB6003D4541 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
+		41F01502180C7FB6003D4541 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
+		41F01504180C7FB6003D4541 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		41F01505180C7FB6003D4541 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		41F0150C180C7FB7003D4541 /* TourTrak GeolocationTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TourTrak GeolocationTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		41F0150D180C7FB7003D4541 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		41F01515180C7FB7003D4541 /* TourTrak GeolocationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TourTrak GeolocationTests-Info.plist"; sourceTree = "<group>"; };
+		41F01517180C7FB7003D4541 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		41F01519180C7FB7003D4541 /* TourTrak_GeolocationTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TourTrak_GeolocationTests.h; sourceTree = "<group>"; };
+		41F0151A180C7FB7003D4541 /* TourTrak_GeolocationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TourTrak_GeolocationTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		41F014E0180C7FB6003D4541 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				415B30AA1816DA81005D3ACE /* CoreLocation.framework in Frameworks */,
+				41F014E7180C7FB6003D4541 /* UIKit.framework in Frameworks */,
+				41F014E9180C7FB6003D4541 /* Foundation.framework in Frameworks */,
+				41F014EB180C7FB6003D4541 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		41F01508180C7FB7003D4541 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				41F0150E180C7FB7003D4541 /* SenTestingKit.framework in Frameworks */,
+				41F0150F180C7FB7003D4541 /* UIKit.framework in Frameworks */,
+				41F01510180C7FB7003D4541 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		41F014DA180C7FB5003D4541 = {
+			isa = PBXGroup;
+			children = (
+				415B30A81816DA43005D3ACE /* CoreLocation.framework */,
+				41F014EC180C7FB6003D4541 /* TourTrak Geolocation */,
+				41F01513180C7FB7003D4541 /* TourTrak GeolocationTests */,
+				41F014E5180C7FB6003D4541 /* Frameworks */,
+				41F014E4180C7FB6003D4541 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		41F014E4180C7FB6003D4541 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				41F014E3180C7FB6003D4541 /* TourTrak Geolocation.app */,
+				41F0150C180C7FB7003D4541 /* TourTrak GeolocationTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		41F014E5180C7FB6003D4541 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				41F014E6180C7FB6003D4541 /* UIKit.framework */,
+				41F014E8180C7FB6003D4541 /* Foundation.framework */,
+				41F014EA180C7FB6003D4541 /* CoreGraphics.framework */,
+				41F0150D180C7FB7003D4541 /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		41F014EC180C7FB6003D4541 /* TourTrak Geolocation */ = {
+			isa = PBXGroup;
+			children = (
+				41F014F5180C7FB6003D4541 /* AppDelegate.h */,
+				41F014F6180C7FB6003D4541 /* AppDelegate.m */,
+				41F014FE180C7FB6003D4541 /* MainStoryboard_iPhone.storyboard */,
+				41F01501180C7FB6003D4541 /* MainStoryboard_iPad.storyboard */,
+				41F01504180C7FB6003D4541 /* ViewController.h */,
+				41F01505180C7FB6003D4541 /* ViewController.m */,
+				41F014ED180C7FB6003D4541 /* Supporting Files */,
+				415B30AB1816DAB3005D3ACE /* LocationController.h */,
+				415B30AC1816DAB3005D3ACE /* LocationController.m */,
+			);
+			path = "TourTrak Geolocation";
+			sourceTree = "<group>";
+		};
+		41F014ED180C7FB6003D4541 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				41F014EE180C7FB6003D4541 /* TourTrak Geolocation-Info.plist */,
+				41F014EF180C7FB6003D4541 /* InfoPlist.strings */,
+				41F014F2180C7FB6003D4541 /* main.m */,
+				41F014F4180C7FB6003D4541 /* TourTrak Geolocation-Prefix.pch */,
+				41F014F8180C7FB6003D4541 /* Default.png */,
+				41F014FA180C7FB6003D4541 /* Default@2x.png */,
+				41F014FC180C7FB6003D4541 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		41F01513180C7FB7003D4541 /* TourTrak GeolocationTests */ = {
+			isa = PBXGroup;
+			children = (
+				41F01519180C7FB7003D4541 /* TourTrak_GeolocationTests.h */,
+				41F0151A180C7FB7003D4541 /* TourTrak_GeolocationTests.m */,
+				41F01514180C7FB7003D4541 /* Supporting Files */,
+			);
+			path = "TourTrak GeolocationTests";
+			sourceTree = "<group>";
+		};
+		41F01514180C7FB7003D4541 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				41F01515180C7FB7003D4541 /* TourTrak GeolocationTests-Info.plist */,
+				41F01516180C7FB7003D4541 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		41F014E2180C7FB6003D4541 /* TourTrak Geolocation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 41F0151E180C7FB7003D4541 /* Build configuration list for PBXNativeTarget "TourTrak Geolocation" */;
+			buildPhases = (
+				41F014DF180C7FB6003D4541 /* Sources */,
+				41F014E0180C7FB6003D4541 /* Frameworks */,
+				41F014E1180C7FB6003D4541 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "TourTrak Geolocation";
+			productName = "TourTrak Geolocation";
+			productReference = 41F014E3180C7FB6003D4541 /* TourTrak Geolocation.app */;
+			productType = "com.apple.product-type.application";
+		};
+		41F0150B180C7FB7003D4541 /* TourTrak GeolocationTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 41F01521180C7FB7003D4541 /* Build configuration list for PBXNativeTarget "TourTrak GeolocationTests" */;
+			buildPhases = (
+				41F01507180C7FB7003D4541 /* Sources */,
+				41F01508180C7FB7003D4541 /* Frameworks */,
+				41F01509180C7FB7003D4541 /* Resources */,
+				41F0150A180C7FB7003D4541 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				41F01512180C7FB7003D4541 /* PBXTargetDependency */,
+			);
+			name = "TourTrak GeolocationTests";
+			productName = "TourTrak GeolocationTests";
+			productReference = 41F0150C180C7FB7003D4541 /* TourTrak GeolocationTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		41F014DB180C7FB5003D4541 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = Rob;
+			};
+			buildConfigurationList = 41F014DE180C7FB5003D4541 /* Build configuration list for PBXProject "TourTrak Geolocation" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 41F014DA180C7FB5003D4541;
+			productRefGroup = 41F014E4180C7FB6003D4541 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				41F014E2180C7FB6003D4541 /* TourTrak Geolocation */,
+				41F0150B180C7FB7003D4541 /* TourTrak GeolocationTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		41F014E1180C7FB6003D4541 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				41F014F1180C7FB6003D4541 /* InfoPlist.strings in Resources */,
+				41F014F9180C7FB6003D4541 /* Default.png in Resources */,
+				41F014FB180C7FB6003D4541 /* Default@2x.png in Resources */,
+				41F014FD180C7FB6003D4541 /* Default-568h@2x.png in Resources */,
+				41F01500180C7FB6003D4541 /* MainStoryboard_iPhone.storyboard in Resources */,
+				41F01503180C7FB6003D4541 /* MainStoryboard_iPad.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		41F01509180C7FB7003D4541 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				41F01518180C7FB7003D4541 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		41F0150A180C7FB7003D4541 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		41F014DF180C7FB6003D4541 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				41F014F3180C7FB6003D4541 /* main.m in Sources */,
+				41F014F7180C7FB6003D4541 /* AppDelegate.m in Sources */,
+				41F01506180C7FB6003D4541 /* ViewController.m in Sources */,
+				415B30AD1816DAB3005D3ACE /* LocationController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		41F01507180C7FB7003D4541 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				41F0151B180C7FB7003D4541 /* TourTrak_GeolocationTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		41F01512180C7FB7003D4541 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 41F014E2180C7FB6003D4541 /* TourTrak Geolocation */;
+			targetProxy = 41F01511180C7FB7003D4541 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		41F014EF180C7FB6003D4541 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				41F014F0180C7FB6003D4541 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		41F014FE180C7FB6003D4541 /* MainStoryboard_iPhone.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				41F014FF180C7FB6003D4541 /* en */,
+			);
+			name = MainStoryboard_iPhone.storyboard;
+			sourceTree = "<group>";
+		};
+		41F01501180C7FB6003D4541 /* MainStoryboard_iPad.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				41F01502180C7FB6003D4541 /* en */,
+			);
+			name = MainStoryboard_iPad.storyboard;
+			sourceTree = "<group>";
+		};
+		41F01516180C7FB7003D4541 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				41F01517180C7FB7003D4541 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		41F0151C180C7FB7003D4541 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		41F0151D180C7FB7003D4541 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		41F0151F180C7FB7003D4541 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TourTrak Geolocation/TourTrak Geolocation-Prefix.pch";
+				INFOPLIST_FILE = "TourTrak Geolocation/TourTrak Geolocation-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		41F01520180C7FB7003D4541 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TourTrak Geolocation/TourTrak Geolocation-Prefix.pch";
+				INFOPLIST_FILE = "TourTrak Geolocation/TourTrak Geolocation-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		41F01522180C7FB7003D4541 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/TourTrak Geolocation.app/TourTrak Geolocation";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TourTrak Geolocation/TourTrak Geolocation-Prefix.pch";
+				INFOPLIST_FILE = "TourTrak GeolocationTests/TourTrak GeolocationTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		41F01523180C7FB7003D4541 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/TourTrak Geolocation.app/TourTrak Geolocation";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TourTrak Geolocation/TourTrak Geolocation-Prefix.pch";
+				INFOPLIST_FILE = "TourTrak GeolocationTests/TourTrak GeolocationTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		41F014DE180C7FB5003D4541 /* Build configuration list for PBXProject "TourTrak Geolocation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				41F0151C180C7FB7003D4541 /* Debug */,
+				41F0151D180C7FB7003D4541 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		41F0151E180C7FB7003D4541 /* Build configuration list for PBXNativeTarget "TourTrak Geolocation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				41F0151F180C7FB7003D4541 /* Debug */,
+				41F01520180C7FB7003D4541 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		41F01521180C7FB7003D4541 /* Build configuration list for PBXNativeTarget "TourTrak GeolocationTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				41F01522180C7FB7003D4541 /* Debug */,
+				41F01523180C7FB7003D4541 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 41F014DB180C7FB5003D4541 /* Project object */;
+}
